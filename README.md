@@ -37,3 +37,4 @@ public function index()
 php artisan serve
 ```
 
+### Visit http://localhost:8000/user in your web browser. You should see the message 'Hello, Laravel!'.
